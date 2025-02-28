@@ -15,8 +15,7 @@ There is a compilation of resources to support the user's mental well-being.
 ![Screenshot (123)](https://github.com/shortlisted159/BTP/assets/64829176/cb9262e1-7552-4384-b54f-be9a571e3c11)
 ![Screenshot (124)](https://github.com/shortlisted159/BTP/assets/64829176/9a186e79-0b67-40a3-8f28-cdf6551e6542)
 ### Demo
-https://bucolic-cactus-0ad129.netlify.app (14inch) <br>
-https://heartfelt-horse-862e0a.netlify.app/ (15.6 inch)
+<h1>Demo Link:</h1><a href="https://sarthak-shastrakar.github.io/Stack-Overflow/">Click Here For Live</a>
 ### Deployment
 To start a react app
 ```bash
