@@ -8,13 +8,13 @@ function Header({ onSelectChange, displayComponent }) {
         window.location.href = "https://www.google.com";
         return null;
        case "ex":
-        window.location.href = "https://sarthak-shastrakar.github.io/Ai-chatbot/";
+        window.location.href = "";
        return null;
       case "ex2":
         window.location.href = "https://www.thelivelovelaughfoundation.org/helpline";
         return null;
       case "ex1":
-        window.location.href = "https://video-call-app-frontend-mm60.onrender.com";
+        window.location.href = "";
       default:
         return null;
     }
